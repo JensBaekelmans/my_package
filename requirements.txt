@@ -28,4 +28,3 @@ joblib
 memoized-property
 termcolor
 
-pip install git+https://github.com/leoeleojolly/Mypackage
